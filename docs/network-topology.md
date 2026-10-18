@@ -38,3 +38,8 @@ Exact interface assignments will be recorded after verification.
 The physical links appear active in the captured topology. Green link indicators alone do not prove that routing or end-to-end connectivity works.
 
 Additional interface checks and connectivity tests will be documented as the project progresses.
+## 6. Network Topology Diagram
+
+The following diagram shows the initial network topology built in Cisco Packet Tracer.
+
+![Initial Enterprise Network Topology](initial-topology.png)
